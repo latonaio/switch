@@ -16,7 +16,13 @@ switch の アーキテクチャ図 です。
 
 ![switch_architecture](docs/switch_architecture.drawio.png)
 
-## 動作環境 （フロントエンドUI担当デバイス側、フロントエンドUI は ReactJSを想定） 
+## 動作環境1  
+* OS: LinuxOS  
+* CPU: ARM/AMD/Intel  
+* Kubernetes  
+* AION  
+
+## 動作環境2 （フロントエンドUI担当デバイス側、フロントエンドUI は ReactJSを想定） 
 - brew -v 3.2.xx  
 - node -v 16 以上  
 - yarn -v 1.22.xx  
