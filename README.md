@@ -1,3 +1,8 @@
+<p align="center"> <img src="https://user-images.githubusercontent.com/91356865/142330567-081e2c2b-d431-481c-a29d-6c11c2c8ac30.png" width="300">
+</p> <p align="center">The converging, dynamic role-change architecture among edge nodes</p>
+
+*** 
+
 # switch  
 switch は、各エッジデバイス（PCを含む）にデプロイされた UIフロントエンド と UIバックエンド のマイクロサービス機能を、エッジデバイス間で相互に役割分担し、時系列でその役割を入れ替えることを可能にする、アーキテクチャです。  
 switch は、クラウドから遮断された、限られた ハードウェア・NWリソース環境において、エッジクラスターNW内のそれぞれのデバイスが効率良く資源配分をされるために、最適なアーキテクチャを提供します。   
